@@ -1,0 +1,96 @@
+{
+  "menu": [
+    {
+      "id": "1",
+      "name": "Home",
+      "Icon": "home",
+      "path": "/home"
+    },
+    {
+      "id": "2",
+      "name": "Features",
+      "Text": "Features",
+      "path": "/menu"
+    },
+    {
+      "id": "3",
+      "name": "Pengguna",
+      "Text": "Pengguna",
+      "path": "/user"
+    },
+    {
+      "id": "4",
+      "name": "Product",
+      "Text": "Produk Pembelajaran",
+      "path": "/produk"
+    }
+  ],
+  "pengguna": [
+    {
+      "id": "1",
+      "name": "alvina jelita firdaus",
+      "asal": "universitas ibrahimy",
+      "email": "alvinajlt130104@gmail.com",
+      "password": "13jelita",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "name": "username",
+      "asal": "universitas other",
+      "email": "username@gmail.com",
+      "password": "user123",
+      "role": "user"
+    },
+    {
+      "id": "3",
+      "name": "username2",
+      "asal": "universitas other",
+      "email": "username2@gmail.com",
+      "password": "user321",
+      "role": "user"
+    },
+    {
+      "id": "4",
+      "name": "LAILATUS SYARIFAH",
+      "asal": "Universitas Ibrahimy",
+      "email": "lailatussyarifah@gmail.com",
+      "password": "27iljem",
+      "role": "user"
+    },
+    {
+      "id": "5",
+      "name": "asrul sani",
+      "asal": "universitas airlangga",
+      "email": "asrulsani03@gmail.com",
+      "password": "sani03",
+      "role": "admin"
+    }
+  ],
+  "product": [
+    {
+      "id": "1",
+      "name": "akademi",
+      "produk": "belajar backend dengan nodejs framework reactjs",
+      "bagian": "../src/components/Elements/Produk/akademi.jsx"
+    },
+    {
+      "id": "2",
+      "name": "akademi",
+      "produk": "belajar html dasar",
+      "bagian": "../src/components/Elements/Produk/akademi2.jsx"
+    },
+    {
+      "id": "3",
+      "name": "challenge",
+      "produk": "membuat web profile dengan mongo db",
+      "bagian": "../src/components/Elements/Produk/akademi2.jsx"
+    },
+    {
+      "id": "4",
+      "name": "challenge",
+      "produk": "Belajar Mysql",
+      "bagian": "https://Mysql"
+    }
+  ]
+}
